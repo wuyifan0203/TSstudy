@@ -1,0 +1,15 @@
+{
+  "name": "tsstudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloTs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.11.11",
+    "ts-node": "^10.4.0"
+  }
+}
